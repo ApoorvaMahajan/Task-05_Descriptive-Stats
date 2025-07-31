@@ -1,6 +1,6 @@
 # Task-05_Descriptive-Stats
 Syracuse University Women’s Lacrosse 2023-2024 — Performance Analysis vs LLMs
-This repository analyzes the performance of the **Syracuse University Women’s Lacrosse Team** during the 2024 season and compares it with the 2023 season to identify trends and player improvements. In parallel, we evaluate how **Large Language Models (LLMs)** like ChatGPT or Claude perform when answering questions *without access to historical data*, versus a Python-based analysis pipeline that uses both seasons' data.
+This repository analyzes the performance of the Syracuse University Women’s Lacrosse Team during the 2024 season and compares it with the 2023 season to identify trends and player improvements. In parallel, I evaluated how Large Language Models (LLMs) like ChatGPT or Claude perform when answering questions without access to historical data, versus a Python-based analysis pipeline that uses both seasons' data.
 
 ## Files in This Repository
 - `Task 5_Womens_Lacross_comparison_and_analysis_Apoorva Mahajan.ipynb` — Python analysis script
